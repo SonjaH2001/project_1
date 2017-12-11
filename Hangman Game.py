@@ -1,5 +1,5 @@
-# from Words_list import words_list
-import random
+import Words_list
+# import random
 
 # create a hangman game for 1st project:
 # find length of words in list, use that as range upper limit, select a random number /
